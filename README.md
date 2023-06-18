@@ -7,11 +7,7 @@ Execute the following commands in your terminal to automate the setup of a Larav
 
 1. Run the Laravel setup script:
 ```sh
-chmod +x laravel-setup.sh git-setup.sh
-```
-
-```sh
-   ./laravel-setup.sh project-name
+./laravel-setup.sh project-name
 ```
 
 2. Push to Github
