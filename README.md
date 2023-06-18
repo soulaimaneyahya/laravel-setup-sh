@@ -1,5 +1,5 @@
 # laravel-setup.sh
-Automated Laravel Setup and GitHub Push
+Automated installing Laravel, Vuejs, InertiaJS and GitHub Push
 
 ## Instructions
 
